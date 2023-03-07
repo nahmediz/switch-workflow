@@ -7,7 +7,6 @@ public class Main {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
     public static void main(String[] args) {
-        LOGGER.info("Hello world!");
-        LOGGER.info("Hello world 2!");
+        LOGGER.info("Enabler 1 is arriving!");
     }
 }
