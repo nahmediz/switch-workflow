@@ -1,4 +1,4 @@
-package org.example.feat;
+package org.feat;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
