@@ -10,5 +10,6 @@ public class Main {
         LOGGER.info("Feature 1 is arriving");
         LOGGER.info("Feature 1 is getting finished!");
         LOGGER.info("Enabler 1 is arriving!");
+        LOGGER.info("Feature 2 is here!");
     }
 }
